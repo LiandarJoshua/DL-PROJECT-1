@@ -1,0 +1,16 @@
+{
+    "training start": "2025-09-13 20:29",
+    "initial balance": 1000,
+    "training episodes": 50,
+    "lookback window size": 50,
+    "depth": 0,
+    "lr": 1e-05,
+    "epochs": 5,
+    "batch size": 32,
+    "normalize value": 40000,
+    "model": "EIIE",
+    "comment": "",
+    "saving time": "2025-09-13 21:19",
+    "Actor name": "final_Crypto_trader_Actor.weights.h5",
+    "Critic name": "final_Crypto_trader_Critic.weights.h5"
+}
